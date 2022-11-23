@@ -1,0 +1,96 @@
+category,word,upvoteCount
+trade,Storage,2
+trade,Price setting,2
+trade,Movement,1
+trade,Decision-making,1
+trade,Barter,1
+trade,Purchase,1
+trade,Production,1
+trade,Equal exchange,0
+trade,Utility function,0
+trade,Trade networks,0
+movement,Least cost pathways,4
+movement,Wayfinding,3
+movement,Pathfinding,0
+movement,Landscape perception,3
+movement,Migration,2
+movement,Population diffusion,0
+movement,"Methods, e.g. random walk",0
+movement,Move to areas with many resources and don't slow down a model,1
+movement,Route networks,1
+subsistence (energy),Calculating energy demand,3
+subsistence (energy),Calculating expected energy yields (accounting for imperfect information),3
+subsistence (energy),Energy consumption,3
+subsistence (energy),hunting,1
+subsistence (energy),"Domestic cows, considering their biology and behaviour",1
+subsistence (energy),Extraction of energy from vegetation/animals,1
+farming,Labour division,3
+farming,famine,3
+farming,Crop regeneration,2
+farming,Soil quality,2
+farming,Disease,2
+farming,Crop choice,1
+farming,Land ownership,1
+farming,Animal husbandry - plant cultivation interaction,1
+farming,Patch selection,0
+farming,Fallowing,0
+farming,Crop production/yield,0
+farming,Nutrients,0
+reproduction,migration,3
+reproduction,disease,3
+reproduction,Age structure,2
+reproduction,Fission and fusion,1
+reproduction,Mortality,1
+reproduction,Fertility,1
+reproduction,Social rules,1
+reproduction,Age tracking/calculation,0
+input-output,Plot generation,3
+input-output,Importing GIS data,3
+input-output,Output of metadata (Processing report),2
+input-output,Data export,2
+input-output,Importing tabular data,2
+input-output,Exporting data,2
+input-output,Exporting 2 dimensional patch datasets,1
+input-output,Time series,0
+input-output,Combining exported files from model runs,0
+input-output,Output to softwareneutral/longterm storable format,0
+input-output,How to easy statistically analyze results and decide fast which scenarios are not good.,0
+input-output,Like-system to identify most-use Models,0
+communication and cognition,Social interaction,4
+communication and cognition,memory,2
+communication and cognition,perception,2
+communication and cognition,"Individual properties (preferences, tastes, personalities...)",1
+cultural transmission,Learning,2
+cultural transmission,Innovation,2
+cultural transmission,Isolation by distance,2
+cultural transmission,Horizontal transmission,1
+cultural transmission,"Mutation, selection and flow",1
+cultural transmission,biased,1
+cultural transmission,unbiased - neutral,1
+cultural transmission,Cultural artifacts,1
+cultural transmission,Cultural artifacts properties (intrinsic vs external),1
+"networks, hierarchies and kinship",Tribute flows,2
+"networks, hierarchies and kinship",Links,2
+"networks, hierarchies and kinship",Hierarchy formation,2
+"networks, hierarchies and kinship",Network density,2
+"networks, hierarchies and kinship",Network measurements,1
+"networks, hierarchies and kinship",Nodes,1
+"networks, hierarchies and kinship",Control networks,1
+"networks, hierarchies and kinship",Social diversity,1
+environmental change,Importing environmental maps,4
+environmental change,Soil productivity,3
+environmental change,Climate,2
+environmental change,Soils,2
+environmental change,Erosion,2
+environmental change,Hydrology,2
+environmental change,Importing climate data,2
+environmental change,Forest growth,1
+environmental change,Vegetation dynamics,1
+environmental change,Environmental degradation,1
+environmental change,Vegetation regeneration,1
+environmental change,Natural vegetation succession,0
+environmental change,"Anthropogenic impacts (e.g., burning)",0
+environmental change,Hydrodynamics,0
+environmental change,Tree gap dynamics,0
+environmental change,Climate,0
+environmental change,Flooding/changing water levels,0
